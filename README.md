@@ -1,23 +1,23 @@
-# 📚 Library Management System (Flask + SQLite)
+#  Library Management System (Flask + SQLite)
 
 A web-based Library Management System built using Flask and SQLite.
 This application allows users to manage books, students, and issue/return records through a simple and user-friendly web interface.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 📖 Add, update, and delete books
-- 👩‍🎓 Manage student records
-- 🔍 Search books
-- 📤 Issue books
-- 📥 Return books
-- 🗄️ SQLite database integration
-- 🌐 Web interface using Flask
+-  Add, update, and delete books
+-  Manage student records
+-  Search books
+-  Issue books
+-  Return books
+-  SQLite database integration
+-  Web interface using Flask
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - Flask
@@ -28,7 +28,7 @@ This application allows users to manage books, students, and issue/return record
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 Library-Management-System/
 │
 ├── app.py
@@ -43,22 +43,22 @@ Library-Management-System/
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
-### 1️⃣ Clone the Repository
+###  Clone the Repository
 git clone https://github.com/your-username/Library-Management-System.git
 
 
-### 2️⃣ Go to Project Folder
+###  Go to Project Folder
 
 cd Library-Management-System
 
 
-### 3️⃣ Install Required Packages
+###  Install Required Packages
 pip install -r requirements.txt
 
 
-### 4️⃣ Run the Application
+### Run the Application
 python app.py
 
 
@@ -68,16 +68,17 @@ http://127.0.0.1:5000/
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
-- 🔐 Add Admin Login
-- 📊 Dashboard for statistics
-- 📱 Make UI fully responsive
-- ☁ Deploy online (Render / Railway)
+-  Add Admin Login
+-  Dashboard for statistics
+-  Make UI fully responsive
+-  Deploy online (Render / Railway)
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 Niharika Bari  
-Aspiring Python & Data Science Developer 🚀
+
+Aspiring Python & Data Science Developer 
